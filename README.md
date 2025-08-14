@@ -29,9 +29,10 @@ This repository contains simulation code, block diagrams, and design documentati
 │── flowchart.png # Control logic flowchart
 
 ## Simulation Preview
-Here’s the AutoBin simulation running in the virtual environment:
+Added as a png file named circuit.png
 
-![AutoBin Simulation]([circuit.png](https://github.com/taniaajsph/Autobin/blob/main/autobin/circuit.png))
+
+
 
 
 
